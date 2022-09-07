@@ -1,3 +1,0 @@
-likelihood:
-	python genLikelihood.py
-
