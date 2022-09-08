@@ -1,6 +1,0 @@
-numpy
-scipy
-h5py>=2.9
-
-[testing]
-pytest

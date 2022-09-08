@@ -1,3 +1,0 @@
-likelihood:
-	python genPrior.py
-
